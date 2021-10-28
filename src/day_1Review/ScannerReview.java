@@ -4,6 +4,7 @@ public class ScannerReview {
     public static void main(String[] args) {
 
         // new
+        // new 2
     }
 }
 
