@@ -7,6 +7,16 @@ public class ScannerReview {
         Scanner scan = new Scanner(System.in);
         System.out.println("Please enter your name: ");
         String name = scan.nextLine();
+        String color  = scan.next();
+
+
+        System.out.println();
+
+
+
+
+
+        /// hello world
 
 
 
