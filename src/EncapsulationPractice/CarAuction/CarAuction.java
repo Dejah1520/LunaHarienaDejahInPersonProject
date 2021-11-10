@@ -1,5 +1,7 @@
-package EncapsulationPractice.Student;
+package EncapsulationPractice.CarAuction;
 
+
+import EncapsulationPractice.CarAuction.Car;
 
 public class CarAuction {
 

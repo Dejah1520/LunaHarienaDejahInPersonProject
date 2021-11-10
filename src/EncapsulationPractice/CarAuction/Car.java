@@ -1,9 +1,10 @@
-package EncapsulationPractice.Student;
+package EncapsulationPractice.CarAuction;
 
 public class Car {
     private String Make;
     private String Model;
     private double Price;
+    private int Year;
 
     public int getYear() {
         return Year;
@@ -13,7 +14,7 @@ public class Car {
         Year = year;
     }
 
-    private int Year;
+
 
     public String getMake(){
         return Make;

@@ -1,4 +1,4 @@
-package EncapsulationPractice.Student;
+package EncapsulationPractice.DogAdoption;
 
 public class DogAdoption {
 
